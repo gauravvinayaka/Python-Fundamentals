@@ -1,4 +1,3 @@
-```markdown
 # Python Fundamentals
 
 This repository contains my Python notes, examples, practice assignments, and solutions as I work through the fundamentals of Python programming.
@@ -55,4 +54,3 @@ The purpose of this repository is to:
 - Review concepts when needed
 - Track my progress over time
 - Maintain a reference for future Python projects
-```
